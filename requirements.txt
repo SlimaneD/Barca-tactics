@@ -11,3 +11,6 @@ ipykernel>=6.0
 tqdm>=4.66
 cmdstanpy>=1.2
 lxml>=5.0
+html5lib>=1.1
+mplsoccer>=1.3
+pingouin>=0.5
